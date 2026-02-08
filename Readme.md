@@ -73,3 +73,12 @@ Launch Jupyter Notebook and open `Model.ipynb` to execute the analysis pipeline.
 
 * **Clustering Performance:** The model successfully identified distinct customer groups with a Silhouette Score of **0.77**, validating the quality of the segmentation.
 * **Classification Accuracy:** The SVM model achieved a robust accuracy of **94.67%** on the test set (after regularization tuning).
+
+## 📈 Clustring Graph
+
+![Demo Image](assets/output.png)
+
+## ✅ Confusion Matrix
+
+![Demo Image](assets/confusion.png)
+
